@@ -16,7 +16,7 @@ From: postgres:12
 %labels
     Author jmb@iseclab.org
     MAINTAINER Josh Bundt
-    Version v0.0.1
+    Version v0.0.2
 
 %help
     Postgres v12
