@@ -1,3 +1,5 @@
+[![singularity-deploy](https://github.com/shub-fuzz/postgres/actions/workflows/builder.yml/badge.svg?branch=main)](https://github.com/shub-fuzz/postgres/actions/workflows/builder.yml)
+
 Singularity Postgres Container
 =====================
 
